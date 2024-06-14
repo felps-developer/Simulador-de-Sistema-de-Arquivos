@@ -1,0 +1,17 @@
+1
+2
+copy
+copy
+copy testfile.txt copy_testfile.txt
+mkdir testdir
+ls -d testdir
+create testfile.txt
+copy testfile.txt copy_testfile.txt
+delete copy_testfile.txt
+shell> rename testfile.txt renamed_testfile.txt
+mkdir testdir
+rmdir testdir
+mkdir testdir
+renamedir testdir renamed_testdir
+list renamed_testdir
+list renamed_testdir
